@@ -1,0 +1,24 @@
+{
+  "name": "aws-intro-maxi",
+  "version": "1.0.0",
+  "description": "Personal Anki Notes for: AWS Serverless APIs &amp; Apps - A Complete Introduction (by Maximilian Schwarzmüller)",
+  "scripts": {
+    "build-01": "markdown-to-anki sections/section01.md > section01.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Andrew4d3@github.com/Andrew4d3/aws-intro-maxi.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "Andrew4d3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andrew4d3/aws-intro-maxi/issues"
+  },
+  "homepage": "https://github.com/Andrew4d3/aws-intro-maxi#readme",
+  "dependencies": {
+    "markdown-to-anki": "^0.2.3"
+  }
+}
