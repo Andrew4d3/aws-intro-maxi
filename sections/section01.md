@@ -1,4 +1,4 @@
-Steps to launce an AWS instance (EC2)
+Steps to launch an AWS instance (EC2)
 
 ---
 

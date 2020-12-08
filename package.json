@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Personal Anki Notes for: AWS Serverless APIs &amp; Apps - A Complete Introduction (by Maximilian Schwarzmüller)",
   "scripts": {
-    "build-01": "markdown-to-anki sections/section01.md > section01.txt"
+    "build-01": "markdown-to-anki sections/section01.md > out.txt",
+    "build-02": "markdown-to-anki sections/section01.md > out.txt"
   },
   "repository": {
     "type": "git",

@@ -5,3 +5,4 @@ Personal Anki Notes for: AWS Serverless APIs &amp; Apps - A Complete Introductio
 ## Table of Contents
 
 -  [Section 1: Getting Started](/sections/section01.md)
+-  [Section 2: The Core Serverless Services](/sections/section01.md)
